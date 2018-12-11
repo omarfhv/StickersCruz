@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723112046896",
+    "firebase_url": "https://stickers-cruzazul.firebaseio.com",
+    "project_id": "stickers-cruzazul",
+    "storage_bucket": "stickers-cruzazul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723112046896:android:836dacfb62203a35",
+        "android_client_info": {
+          "package_name": "com.games.user.cruzazulstickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723112046896-i3sjb3e46h3duulsh6rl217ddrupjp49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizdXn6rJqZb53ZhDLKdgHe3bcc8NtRnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
